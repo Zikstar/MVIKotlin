@@ -1,0 +1,10 @@
+{
+  "name": "MVIKotlin Time Travel",
+  "description": "MVIKotlin Time Travel extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "devtools_page": "devtools.html",
+  "background": {
+    "service_worker": "background.js"
+  }
+}
